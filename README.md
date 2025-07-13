@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **Html,Css**
 
-- 📫 How to reach me **nazirabid506@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny😂**
+- 📫 How to reach me **saqalainabid1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
