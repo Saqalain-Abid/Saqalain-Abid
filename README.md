@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web-Development**
 
-- 💬 Ask me about **Html,Css**
+- 💬 Ask me about **Html,Css,JavaScript,React,NodeJs,Express,MongoDB**
 
 - 📫 How to reach me **saqalainabid1@gmail.com**
 
