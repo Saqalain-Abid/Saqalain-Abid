@@ -2,7 +2,7 @@
 <img src="https://github.com/Saqalain-Abid/Saqalain-Abid/blob/main/Web-Developer.jpg" alt="MasterHead" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Saqalain Abid</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | JavaScript Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">Full Stack MERN Developer | JavaScript Programmer| Passionate Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
@@ -20,7 +20,7 @@
   - React.js, Node.js, Express.js, MongoDB
 - 📧 Reach me at: **saqalainabid1@gmail.com**
 - 🌍 Based in: **Pakistan**
-- 🔧 Passionate about creating clean and efficient full-stack applications
+- 🔧 Passionate about creating clean and efficient Full-Stack applications
 
 ---
 
